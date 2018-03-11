@@ -1,0 +1,8 @@
+[package]
+name = "verbatim"
+version = "0.1.0"
+authors = ["Dave Herman <david.herman@gmail.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/notion-cli/notion"
+
+[dependencies]
